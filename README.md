@@ -1,8 +1,6 @@
-# .
+## Тестовое задание для SaaSoft
 
-Тестовое задание для SaaSoft
-
-Используемый стек: Vue 3, CompositionAPI, Pinia, TypeScript, NaiveUI
+## Используемый стек: Vue 3, CompositionAPI, Pinia, TypeScript, NaiveUI
 
 ## Recommended IDE Setup
 
